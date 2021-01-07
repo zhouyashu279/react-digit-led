@@ -11,6 +11,8 @@
   "keywords": [],
   "author": "zhouyashu",
   "license": "MIT",
+  "email": "2634453967@qq.com",
+  "homepage": "https://github.com/z09876/react-digit-led",
   "devDependencies": {
     "@babel/core": "^7.12.10",
     "@babel/preset-env": "^7.12.11",
