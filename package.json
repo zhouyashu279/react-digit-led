@@ -2,7 +2,7 @@
   "name": "react-digit-led",
   "version": "1.0.0",
   "description": "显示led数字的react组件",
-  "main": "index.js",
+  "main": "dist/digitled.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --open --mode development",

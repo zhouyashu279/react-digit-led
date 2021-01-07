@@ -4,7 +4,7 @@ const HtmlWebPackPlugin = require("html-webpack-plugin");
 module.exports = {
     entry: './src/main.js',
     output: {
-        filename: 'bundle.js',
+        filename: 'digitled.min.js',
         path: path.resolve(__dirname, 'dist')
     },
     module: {
@@ -30,7 +30,7 @@ module.exports = {
                 test: /\.TTF$/,
                 use: [
                     {
-                        loader: 'file-loader',
+                        loader: 'url-loader',
                         options: {
                             name: './led-font.[ext]'
                         },
