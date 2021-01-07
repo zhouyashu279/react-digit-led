@@ -1,4 +1,6 @@
 
+node_modules/
+src/
 /coverage
 /build
 .idea/
@@ -11,8 +13,9 @@ node_modules
 .settings
 npm-debug.log
 nohup.out
-dist
 /.vscode/
 /coverage
 /.history
 *.tmp
+README.md
+page.png
