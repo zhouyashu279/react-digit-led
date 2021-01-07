@@ -1,0 +1,20 @@
+
+@font-face {
+  font-family: 'DIGITAL-7MONO';
+  src: url('DIGITAL-7MONO.TTF') format('truetype');
+}
+
+.z-digit-wrap{
+    font-family: 'DIGITAL-7MONO';
+    position: relative;
+}
+.z-digit-wrap .digit-shadow{
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.z-digit-wrap .digit-text{
+  position: relative;
+  top: 0;
+  left: 0;
+}
