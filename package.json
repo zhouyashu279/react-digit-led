@@ -1,5 +1,5 @@
 {
-  "name": "react-digit-led",
+  "name": "react-digit-led1",
   "version": "1.0.0",
   "description": "显示led数字的react组件",
   "main": "dist/digitled.min.js",
