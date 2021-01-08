@@ -1,7 +1,6 @@
 # react-digit-led
 
 > 显示led数字的react组件
-
 ## Install
 
 ``` bash

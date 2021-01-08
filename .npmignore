@@ -1,6 +1,7 @@
 
-node_modules/
+
 src/
+node_modules/
 /coverage
 /build
 .idea/
@@ -8,7 +9,6 @@ src/
 *.log
 *.log.*
 *.json.gzip
-node_modules
 .buildpath
 .settings
 npm-debug.log
@@ -17,5 +17,5 @@ nohup.out
 /coverage
 /.history
 *.tmp
-README.md
 page.png
+.babelrc

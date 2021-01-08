@@ -8,3 +8,5 @@
 // 打包
 import Led from './components/Led'
 import DateTime from './components/DateTime'
+
+export {Led, DateTime}
