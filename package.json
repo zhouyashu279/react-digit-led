@@ -1,5 +1,5 @@
 {
-  "name": "react-digit-led1",
+  "name": "react-digit-led",
   "version": "1.0.0",
   "description": "显示led数字的react组件",
   "main": "dist/digitled.min.js",
@@ -27,9 +27,5 @@
     "webpack": "^4.44.2",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.1"
-  },
-  "dependencies": {
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1"
   }
 }

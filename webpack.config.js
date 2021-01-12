@@ -25,7 +25,7 @@ module.exports = {
             },
             {
                 test: /\.css$/,
-                use: ['style-loader','css-loader']
+                use: ['style-loader', 'css-loader']
             },
             {
                 test: /\.TTF$/,
@@ -48,3 +48,9 @@ module.exports = {
         })
     ]
 }
+
+// ,
+//   "dependencies": {
+//     "react": "^17.0.1",
+//     "react-dom": "^17.0.1"
+//   }
