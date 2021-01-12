@@ -4,12 +4,12 @@
 ## Install
 
 ``` bash
- npm install react-digit-led
+ npm install react-digit-led1
 ```
 ## Example
  Demo
 ``` bash
-import {Led, DateTime} from 'react-digit-led'
+import {Led, DateTime} from 'react-digit-led1'
 class App extends React.Component {
   render() {
     const shodowStyle = {
