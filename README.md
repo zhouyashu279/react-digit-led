@@ -4,7 +4,7 @@
 ## Install
 
 ``` bash
- npm install react-digit-led1
+ npm install react-digit-led1 --save-dev
 ```
 ## Example
  Demo
@@ -12,7 +12,12 @@
 import {Led, DateTime} from 'react-digit-led1'
 class App extends React.Component {
   render() {
-    const shodowStyle = {
+    const style = {
+      fontSize: 30,
+      fontWeight: 'bold',
+      color: 'red'
+    },
+      shodowStyle = {
         fontSize: 30,
         fontWeight: 'bold',
         color: '#33f'
